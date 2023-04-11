@@ -1,0 +1,20 @@
+REVISION
+
+* The command line is a textbased interface on your laptop where you can type in commands to perform various tasks 
+* Command Line Basics
+* The Integrated Development Enviroment(IDE) is a powerful and versatile Enviroment that offers a range of advanced features for writing and running python code
+* We also learnt about Notebooks(Jupyter for example)
+
+* Data Types in python
+*Boolean type
+*Numbers
+*Type conversion
+*Variables and Variable assignments
+
+
+Classwork
+*How do you perform the addition of two numbers in python?
+*How do you perform the Subtraction of two numbers in python?
+*How do you perform the multiplication of two numbers in python?
+*How do you perform the division of two numbers in python?
+*What is type conversion and why is it necessary?
