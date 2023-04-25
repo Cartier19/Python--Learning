@@ -30,3 +30,20 @@ Set
 ** List
 To get multiple elements from a list, we use the slicing process
 The syntax to performing this is list_name[start:end] or list_name[start:end:step]
+To check if an element is in a list, use the "in" keyword
+
+** Adding to a list
+Three methods of doing this
+1. .append(element) adds a single element
+2. .extend(element) adds another list to the end of the list
+3. .insert(index, value) adds a single element to a specified index
+
+** Removing from a list
+Four method of doing this
+.remove
+
+
+
+** Sorting a list
+.sort() to sort in ascending order & .sort(reverse = True)
+.sorted(list_a) to sort in ascending order & .sorted(list_a, reverse=True) to sortin descending order
