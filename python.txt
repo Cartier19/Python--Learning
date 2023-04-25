@@ -26,3 +26,7 @@ List
 Tuple
 Dictionary
 Set
+
+** List
+To get multiple elements from a list, we use the slicing process
+The syntax to performing this is list_name[start:end] or list_name[start:end:step]
