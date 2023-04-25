@@ -18,3 +18,11 @@ Classwork
 *How do you perform the multiplication of two numbers in python?
 *How do you perform the division of two numbers in python?
 *What is type conversion and why is it necessary?
+
+* DATA STRUCTURES
+They are advanced data types used to store collection of other data types.
+Types include:
+List 
+Tuple
+Dictionary
+Set
