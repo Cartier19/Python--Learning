@@ -47,3 +47,6 @@ Four method of doing this
 ** Sorting a list
 .sort() to sort in ascending order & .sort(reverse = True)
 .sorted(list_a) to sort in ascending order & .sorted(list_a, reverse=True) to sortin descending order
+
+## FOR LOOP
+A for loop is used for itirating over a sequence
