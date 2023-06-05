@@ -14,8 +14,7 @@ def roman_to_int(roman_numeral):
     for numeral in roman_numeral[::-1]:
         current_value = roman_values[numeral]
         
-        # If the previous value is smaller than the current value,
-        # subtract the previous value from the result.
+        # If the previous value is smaller than the current value, subtract the previous value from the result.
         if previous_value > current_value:
             result -= current_value
         # Otherwise, add the current value to the result.
@@ -32,3 +31,4 @@ print(roman_to_int('III'))
 print(roman_to_int('IX'))  
 print(roman_to_int('LVIII'))  
 print(roman_to_int('XXX'))
+print(roman_to_int('MMMM'))
